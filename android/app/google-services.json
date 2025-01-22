@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "857422157807",
+    "firebase_url": "https://studentevents-3533e-default-rtdb.firebaseio.com",
+    "project_id": "studentevents-3533e",
+    "storage_bucket": "studentevents-3533e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857422157807:android:f45c2d73daddcac9a8081a",
+        "android_client_info": {
+          "package_name": "com.example.onlineddb_nathika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqesI7DBe26_tN9FB9Wg710p_zz-MaspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
